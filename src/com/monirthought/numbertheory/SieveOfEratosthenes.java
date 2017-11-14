@@ -1,4 +1,4 @@
-package com.monirthought.sieveoferatosthenes;
+package com.monirthought.numbertheory;
 
 /**
  * Implementation of Sieve Of Eratosthenes algorithm to generate all primes up
@@ -9,7 +9,7 @@ package com.monirthought.sieveoferatosthenes;
  */
 public class SieveOfEratosthenes {
 
-	private final int LIMIT = 100;
+	private final int LIMIT = 1000;
 	private int[] flag = new int[LIMIT + 1];
 	private int[] primes = new int[LIMIT];
 	private int totalPrimes = 0;
