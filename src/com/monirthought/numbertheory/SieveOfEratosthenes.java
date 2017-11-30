@@ -2,7 +2,7 @@ package com.monirthought.numbertheory;
 
 /**
  * Implementation of Sieve Of Eratosthenes algorithm to generate all primes up
- * to 100
+ * to 1000
  * 
  * @author Moniruzzaman Md
  *
