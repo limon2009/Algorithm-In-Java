@@ -3,7 +3,7 @@ package com.monirthought.graph.dfs;
 import java.util.LinkedList;
 
 /**
- * DFS algorithm to final all possible path between two vertex. Assumed that the
+ * DFS algorithm to final all possible paths between two vertex. Assumed that the
  * given graph has no cycle.
  * 
  * @author Moniruzzaman Md
